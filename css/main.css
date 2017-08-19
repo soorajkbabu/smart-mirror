@@ -1,0 +1,22 @@
+/*
+  * MagicMirror UI v1.0
+*/
+
+body {
+  background-color: black;
+}
+
+.main-heading {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.weather {
+  float: right;
+}
+
+.twitter {
+  float: left;
+}
